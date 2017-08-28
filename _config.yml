@@ -1,0 +1,96 @@
+name: Smokey Pit Master
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:bruce@it-star.co.uk'
+    label: Contact me
+github: true
+description: 'Meat, Fish and Vegetables'
+author:
+  name: Bruce Dorrian-Clark
+  email: bruce@it-star.co.uk
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5c524d6-e7eb-47ac-85df-dc5375431ac7.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5c524d6-e7eb-47ac-85df-dc5375431ac7.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f599e1cc-ac17-4bcc-9b56-ebca60a1d87b.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f599e1cc-ac17-4bcc-9b56-ebca60a1d87b.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.9300201155710965
+color:
+  lightness: 0.8388220246415585
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.06091243657283485
+  brandStrength: 0.4029994481243193
+  rhythmicContrast: 0.2186087297741324
+content_rating:
+  adult: false
+typography_spectrum: 0.09502656431868672
+opengraph: {}
+title: BBQ and Smoking...
