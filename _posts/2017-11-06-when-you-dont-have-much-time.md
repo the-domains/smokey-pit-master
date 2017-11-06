@@ -1,29 +1,29 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   There are times when you just don’t have time for a 6 - 10 hour smoke. I found
   myself in this position this weekend, but wanted something smokey for Saturday
   dinner. My local butcher (Jim Davenport - Donaghadee) had some pork shoulder -
-  bone out - and some thick pork sausages. 
-dateModified: '2017-11-06T18:38:14.800Z'
-datePublished: '2017-11-06T18:38:16.027Z'
+  bone out - and some thick pork sausages.
+dateModified: '2017-11-06T18:39:05.482Z'
+datePublished: '2017-11-06T18:39:06.338Z'
 title: When you don’t have much time
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-11-06-when-you-dont-have-much-time.md
 starred: false
 datePublishedOriginal: '2017-11-06T18:38:16.027Z'
-sourcePath: _posts/2017-11-06-when-you-dont-have-much-time.md
 url: when-you-dont-have-much-time/index.html
-_type: Blurb
+_type: Article
 
 ---
 # When you don't have much time
 
-There are times when you just don't have time for a 6 - 10 hour smoke. I found myself in this position this weekend, but wanted something smokey for Saturday dinner. My local butcher (Jim Davenport - Donaghadee) had some pork shoulder - bone out - and some thick pork sausages. 
+There are times when you just don't have time for a 6 - 10 hour smoke. I found myself in this position this weekend, but wanted something smokey for Saturday dinner. My local butcher (Jim Davenport - Donaghadee) had some pork shoulder - bone out - and some thick pork sausages.
 
-Well, it made sense to me to get some thick shoulder chops and a dozen of the large sausages. 
+Well, it made sense to me to get some thick shoulder chops and a dozen of the large sausages.
 
 The chops had a ketchup slather and a Memphis style rub
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/613f5036f93598395a6f51469b26171e/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F79ab223b-99cd-44b2-a4b3-e1baa2b5aefc.jpg&x=0&y=0)
