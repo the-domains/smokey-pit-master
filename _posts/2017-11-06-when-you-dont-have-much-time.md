@@ -5,8 +5,8 @@ description: >-
   myself in this position this weekend, but wanted something smokey for Saturday
   dinner. My local butcher (Jim Davenport - Donaghadee) had some pork shoulder -
   bone out - and some thick pork sausages.
-dateModified: '2017-11-06T18:39:05.482Z'
-datePublished: '2017-11-06T18:39:06.338Z'
+dateModified: '2017-11-11T17:21:40.911Z'
+datePublished: '2017-11-11T17:21:42.010Z'
 title: When you don’t have much time
 author: []
 publisher: {}
