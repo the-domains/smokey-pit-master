@@ -28,10 +28,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Test
-    id: 543a161a-96a5-47d3-a786-0689c7365bb8
-    type: content
 collections:
   - index:
       path: /
