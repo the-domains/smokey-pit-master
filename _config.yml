@@ -1,14 +1,26 @@
-name: Smokey Pit Master
-analytics: {}
-purpose:
-  - type: contact
-    url: 'mailto:bruce@it-star.co.uk'
-    label: Contact me
+typography_spectrum: 0.09502656431868672
+content_rating:
+  adult: false
+color:
+  lightness: 0.8388220246415585
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.06091243657283485
+  brandStrength: 0.4029994481243193
+  rhythmicContrast: 0.2186087297741324
 github: true
-description: 'Meat, Fish and Vegetables'
+opengraph: {}
+layout_spectrum: 0.9300201155710965
+analytics: {}
 author:
   name: Bruce Dorrian-Clark
   email: bruce@it-star.co.uk
+name: Smokey Pit Master
+url: 'http://smokeypitmaster.com'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,6 +28,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: Test
+    id: 543a161a-96a5-47d3-a786-0689c7365bb8
+    type: content
 collections:
   - index:
       path: /
@@ -28,6 +44,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: BBQ and Smoking...
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,19 +54,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5c524d6-e7eb-47ac-85df-dc5375431ac7.jpg
     metadata:
-      author: []
       datePublished: null
       keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -61,37 +78,24 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/f599e1cc-ac17-4bcc-9b56-ebca60a1d87b.jpg
     metadata:
-      author: []
       datePublished: null
       keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.9300201155710965
-color:
-  lightness: 0.8388220246415585
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  saturation: 0.06091243657283485
-  brandStrength: 0.4029994481243193
-  rhythmicContrast: 0.2186087297741324
-content_rating:
-  adult: false
-typography_spectrum: 0.09502656431868672
-opengraph: {}
-title: BBQ and Smoking...
-url: 'http://smokeypitmaster.com'
+description: 'Meat, Fish and Vegetables'
+purpose:
+  - type: contact
+    url: 'mailto:bruce@it-star.co.uk'
+    label: Contact me
