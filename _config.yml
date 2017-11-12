@@ -28,6 +28,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: Beefburgers
+    id: 2cfd61d3-f416-4978-b4f1-86140b77326f
+    type: content
 collections:
   - index:
       path: /
