@@ -15,7 +15,8 @@ color:
 github: true
 opengraph: {}
 layout_spectrum: 0.9300201155710965
-analytics: {}
+analytics:
+  google: UA-111595824-1
 author:
   name: Bruce Dorrian-Clark
   email: bruce@it-star.co.uk
